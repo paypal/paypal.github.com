@@ -3,7 +3,7 @@ body, html {
     padding: 0;
     font-family: 'helvetica neue', arial, sans-serif;
     font-weight: 200;
-    color: #888;
+    color: #555555;
 }
 
 .wrapper {
@@ -17,22 +17,15 @@ header {
     font-size: 18px;
 }
 
-header ul {
+#apis{
     position: absolute;
     right: 0;
     bottom: .5em;
     margin: 0;
-    padding: 0;
-}
-
-header ul li {
-    display: inline-block;
     list-style: none;
     text-align: right;
     padding: .5em;
     color: #666;
-
-
 }
 
 header ul li.separator:before {
@@ -85,7 +78,7 @@ header .api{
 
 }
 
-#repos div.project h1 {
+#repos div.project h2 {
     font-size: 30px;
     font-weight: 200;
     margin: 0;
