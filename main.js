@@ -32,7 +32,7 @@ $(function(){
     function createBlock(repo){
         var block=$("<div></div>").addClass("project");
         var name=$("<h1></h1>").html(repo.name);
-        var lang=$("<span></span>").html(repo.language).addClass(repo.language);
+        var lang=$("<div></div>").html(repo.language).addClass(repo.language+ " language");
         var desc=$("<p></p>").html(repo.desc);
         var link=$("<a>&gt;</a>")
             .attr('href',repo.repo)

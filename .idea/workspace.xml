@@ -3,12 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549626511" ignored="false" />
-    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384887090401" ignored="false" />
-    <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384818711763" ignored="false" />
+    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384889110472" ignored="false" />
+    <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384888664231" ignored="false" />
     <file path="/projects.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384817228576" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kappa/test/fixtures/config/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420962267" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kappa/test/turnip.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384422673972" ignored="false" />
@@ -24,7 +26,7 @@
     <file path="/.gitignore" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384557805179" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken-site/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384815485457" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken-site/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384813826030" ignored="false" />
-    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384821475409" ignored="false" />
+    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384889077235" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/js/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384501430761" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
@@ -112,7 +114,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="71" selection-start="456" selection-end="456" vertical-scroll-proportion="0.3153153">
+            <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="0.13513513">
               <folding />
             </state>
           </provider>
@@ -121,7 +123,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+            <state line="69" column="20" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,7 +148,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="34" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
+            <state line="34" column="88" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -520,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/ossLogo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -534,14 +529,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="34" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
+        <state line="34" column="88" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="20" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="71" selection-start="456" selection-end="456" vertical-scroll-proportion="0.3153153">
+        <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="0.13513513">
           <folding />
         </state>
       </provider>
