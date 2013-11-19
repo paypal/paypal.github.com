@@ -80,7 +80,7 @@ header .api{
     background: #F4F4F4;
     font-weight: 200;
     width: 230px;
-    min-height: 110px;
+    min-height: 120px;
     position: relative;
 
 }
@@ -98,8 +98,17 @@ header .api{
     padding: .25em 0;
 }
 
+/*Supporte Languages*/
 #repos div.javascript, #repos a.javascript {
     color: #1089cc;
+}
+
+#repos div.ruby, #repos a.ruby {
+    color: #800341;
+}
+
+#repos div.java, #repos a.java {
+    color: #ff5e01;
 }
 
 #repos div.project p {

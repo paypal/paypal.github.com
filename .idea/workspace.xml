@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.js" afterPath="$PROJECT_DIR$/projects.js" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +25,7 @@
     <file path="/.gitignore" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384557805179" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken-site/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384815485457" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken-site/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384813826030" ignored="false" />
-    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384889077235" ignored="false" />
+    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384889688263" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/js/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384501430761" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
@@ -123,7 +122,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="20" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0">
+            <state line="82" column="18" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,7 +138,7 @@
       <file leaf-file-name="projects.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="31" selection-start="2088" selection-end="2088" vertical-scroll-proportion="-24.411764">
+            <state line="20" column="66" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.882353">
               <folding />
             </state>
           </provider>
@@ -177,9 +176,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/projects.js" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/projects.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -515,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="31" selection-start="2088" selection-end="2088" vertical-scroll-proportion="-24.411764">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/ossLogo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -534,9 +526,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="66" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.882353">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="20" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0">
+        <state line="82" column="18" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
