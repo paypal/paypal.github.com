@@ -27,15 +27,22 @@ $(function(){
     for(var i in PAYPAL.projects){
         createBlock(PAYPAL.projects[i]);
     }
+    $('#repos').append($("<div>&nbsp</div>"));
 
     function createBlock(repo){
-        var block=$("<div></div>");
+        var block=$("<div></div>").addClass("project");
         var name=$("<h1></h1>").html(repo.name);
+        var lang=$("<span></span>").html(repo.language).addClass(repo.language);
         var desc=$("<p></p>").html(repo.desc);
-
+        var link=$("<a>&gt;</a>")
+            .attr('href',repo.repo)
+            .attr('target','_BLANK')
+            .addClass(repo.language);;
         block
             .append(name)
+            .append(lang)
             .append(desc)
+            .append(link)
 
         $('#repos').append(block);
 

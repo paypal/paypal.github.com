@@ -2,14 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/scr_content-bkgd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.js" afterPath="$PROJECT_DIR$/projects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384387018519" ignored="false" />
-    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384389351621" ignored="false" />
-    <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384389601790" ignored="false" />
-    <file path="/projects.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384389457593" ignored="false" />
+    <file path="/Dummy.txt" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549626511" ignored="false" />
+    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384821187265" ignored="false" />
+    <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384818711763" ignored="false" />
+    <file path="/projects.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384817228576" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kappa/test/fixtures/config/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420962267" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kappa/test/turnip.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384422673972" ignored="false" />
+    <file path="/turnip.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420544973" ignored="false" />
+    <file path="/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420641051" ignored="false" />
+    <file path="/index.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549728092" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kappa/lib/index.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384419888602" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kappa/config/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384421471581" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kappa/README.md" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384422853627" ignored="false" />
+    <file path="/README.md" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549881279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kraken-js/README.md" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384462998880" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken-site/.gitignore" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384463297381" ignored="false" />
+    <file path="/.gitignore" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384557805179" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken-site/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384815485457" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken-site/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384813826030" ignored="false" />
+    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384821226287" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kraken-js/js/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kraken-js/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384501430761" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken/kraken-js/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
+    <file path="/a.dummy" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549663986" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/index.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549728092" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549792285" ignored="false" />
+    <file path="/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549763711" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/README.md" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549881279" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/pplinkpath/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007636" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/brogan/node_modules/pplinkpath/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007636" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/brogan/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007636" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/express-meta/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007636" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/dusthelpers-supplement/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007637" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/ppcommons/node_modules/pplinkpath/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007637" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/node_modules/dustjs-i18n/node_modules/tagfinder/package.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384550007637" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/Gruntfile.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384557786463" ignored="false" />
+    <file path="$USER_HOME$/temp/sample-app/.gitignore" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384557805179" ignored="false" />
+    <file path="$USER_HOME$/temp/leap/js/cloth.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384756086501" ignored="false" />
+    <file path="$USER_HOME$/temp/leap/css/cloth.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384754949687" ignored="false" />
+    <file path="$USER_HOME$/temp/leap/css/cloth.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384754992627" ignored="false" />
+    <file path="/cloth.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384755031434" ignored="false" />
+    <file path="$USER_HOME$/temp/leap/cloth.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384755474457" ignored="false" />
+    <file path="/cloth.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384755989277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../kraken-site/js/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384814983355" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +119,16 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="142" selection-end="142" vertical-scroll-proportion="0.11261261">
+            <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="0.13513513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="120" column="16" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,7 +137,7 @@
       <file leaf-file-name="projects.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1203" selection-end="1203" vertical-scroll-proportion="-3.5795455">
+            <state line="83" column="31" selection-start="2088" selection-end="2088" vertical-scroll-proportion="-24.411764">
               <folding />
             </state>
           </provider>
@@ -91,10 +146,8 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="17" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#155#0" expanded="false" />
-              </folding>
+            <state line="38" column="34" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,6 +177,7 @@
       <list>
         <option value="$PROJECT_DIR$/projects.js" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -162,6 +216,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,10 +236,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoPopulate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoPopulate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,8 +260,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager">
@@ -209,6 +278,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -237,19 +319,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -324,28 +393,28 @@
     <frame x="39" y="22" width="1397" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -409,25 +478,51 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="17" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#155#0" expanded="false" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1203" selection-end="1203" vertical-scroll-proportion="-3.5795455">
+        <state line="51" column="0" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="17" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="16" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="31" selection-start="2088" selection-end="2088" vertical-scroll-proportion="-24.411764">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="34" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="142" selection-end="142" vertical-scroll-proportion="0.11261261">
+        <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="0.13513513">
           <folding />
         </state>
       </provider>

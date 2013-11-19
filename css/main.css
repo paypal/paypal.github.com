@@ -1,0 +1,122 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'helvetica neue', arial, sans-serif;
+    font-weight: 200;
+    color: #999;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 1em 0;
+    position: relative;
+}
+
+header ul {
+    position: absolute;
+    right: 0;
+    bottom: .5em;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li {
+    display: inline-block;
+    list-style: none;
+    text-align: right;
+    padding: .5em;
+    color: #666;
+    border: solid 1px #CCC;
+    border-radius: 5px;
+
+}
+
+header ul li.separator:before {
+    content: "|";
+}
+
+header .icon{
+    display: inline-block;
+}
+header .mobile{
+    background-image: url("https://www.paypalobjects.com/webstatic/developer/dev_icons_ribbon.png");
+    background-position: 0 -124px;
+    background-repeat: no-repeat;
+    height: 56px;
+    width: 32px;
+}
+
+header .sdk{
+    background-image: url("https://www.paypalobjects.com/webstatic/developer/dev_icons_ribbon.png");
+    background-position: 0 -344px;
+    background-repeat: no-repeat;
+    height: 56px;
+    width: 40px;
+}
+header .api{
+    background-image: url("https://www.paypalobjects.com/webstatic/developer/dev_icons_ribbon.png");
+    background-position: 0 -234px;
+    background-repeat: no-repeat;
+    height: 56px;
+    width: 42px;
+}
+#repos {
+    border-top: solid 1px #ccc;
+    border-bottom: solid 1px #ccc;
+}
+
+
+
+#repos div.project {
+    float: left;
+    padding: .75em 1em;
+    margin: 1em;
+    border-radius: 5px;
+    background: #F4F4F4;
+    font-weight: 200;
+    width: 230px;
+    min-height: 110px;
+    position: relative;
+
+}
+
+#repos div.project h1 {
+    font-size: 30px;
+    font-weight: 200;
+    margin: 0;
+    color: #555;
+}
+
+#repos div.project span {
+    font-weight: bold;
+}
+
+#repos div span.javascript, #repos div a.javascript {
+    color: #1089cc;
+}
+
+#repos div.project p {
+    font-size: 16px;
+    margin: 0.2em 0;
+    width: 200px;
+}
+
+#repos div.project a {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#repos div:last-of-type{
+    clear: both;
+}
+
+footer{
+    padding: 2em;
+}

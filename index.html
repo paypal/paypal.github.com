@@ -1,43 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>PayPal Open Source</title>
+    <link href="css/main.css" rel="stylesheet">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <!--script src="jquery-1.10.2.min.js"></script-->
     <script src="projects.js"></script>
     <script src="main.js"></script>
-    <style>
-        #repos {
-            width: 900px;
-            margin: 0 auto;
-        }
 
-        #repos div {
-            float: left;
-            padding: 1em;
-            margin: 1em;
-            border: solid 1px #ccc;
-            border-radius: 5px;
-            background: #FFF;
-            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-            width: 230px;
-            height: 200px;
-        }
-
-        #repos div h1 {
-            font-size: 20px;
-            color: #333;
-        }
-
-        #repos div p {
-            font-size: 16px;
-            color: #444;
-        }
-    </style>
 </head>
 <body>
-<h1>PayPal Open Source</h1>
+<div class="wrapper">
+    <header>
+        <h1>PayPal Open Source</h1>
+        <span>PayPal is built with open source components. We think you'll like these.</span>
+        <ul>
+            <li>
+                <div class="icon api"></div>
+                <div class="icon sdk"></div>
+                <div class="icon mobile"></div>
+                <br>Looking for APIs and SDKs?<br>
+                Visit <a href="http://developer.paypal.com">Developer Central</a>
+            </li>
+        </ul>
+    </header>
+    <div id="repos"></div>
 
-<div id="repos"></div>
-
+    <footer>
+        <span>
+            View all Open Source Projects in <a href="http://github.com/paypal/">GitHub</a>
+        </span>
+    </footer>
+</div>
 </body>
 </html>
