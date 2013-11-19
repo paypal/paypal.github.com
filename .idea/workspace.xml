@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549626511" ignored="false" />
-    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384821187265" ignored="false" />
+    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384887090401" ignored="false" />
     <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384818711763" ignored="false" />
     <file path="/projects.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384817228576" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kappa/test/fixtures/config/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420962267" ignored="false" />
@@ -109,21 +109,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="-3.75">
+            <state line="14" column="71" selection-start="456" selection-end="456" vertical-scroll-proportion="0.3153153">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6956522">
+            <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ossLogo.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/ossLogo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -170,8 +177,8 @@
       <list>
         <option value="$PROJECT_DIR$/projects.js" />
         <option value="$PROJECT_DIR$/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -226,6 +233,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="autoPopulate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoPopulate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoPopulate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -499,6 +520,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/ossLogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="34" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
@@ -508,14 +541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6956522">
+        <state line="14" column="71" selection-start="456" selection-end="456" vertical-scroll-proportion="0.3153153">
           <folding />
         </state>
       </provider>
