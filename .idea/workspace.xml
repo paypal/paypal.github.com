@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549626511" ignored="false" />
     <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384903470330" ignored="false" />
-    <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384888664231" ignored="false" />
+    <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384903802860" ignored="false" />
     <file path="/projects.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384817228576" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kappa/test/fixtures/config/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420962267" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kappa/test/turnip.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384422673972" ignored="false" />
@@ -132,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="6" selection-start="278" selection-end="278" vertical-scroll-proportion="-0.8695652">
+            <state line="19" column="6" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -157,10 +155,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="29" selection-start="761" selection-end="761" vertical-scroll-proportion="0.0">
+            <state line="38" column="58" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.82608694">
               <folding />
             </state>
           </provider>
@@ -192,9 +190,9 @@
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/projects.js" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -535,13 +533,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="29" selection-start="761" selection-end="761" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="48" selection-start="781" selection-end="781" vertical-scroll-proportion="-2.6470587">
@@ -558,7 +549,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="278" selection-end="278" vertical-scroll-proportion="-0.8695652">
+        <state line="19" column="6" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="58" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.82608694">
           <folding />
         </state>
       </provider>
