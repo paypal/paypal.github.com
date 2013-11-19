@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384549626511" ignored="false" />
-    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384890324883" ignored="false" />
+    <file path="/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384890584084" ignored="false" />
     <file path="/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384888664231" ignored="false" />
     <file path="/projects.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384817228576" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kappa/test/fixtures/config/settings.json" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384420962267" ignored="false" />
@@ -116,7 +112,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="23" selection-start="227" selection-end="227" vertical-scroll-proportion="0.13513513">
+            <state line="15" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="0.33783785">
               <folding />
             </state>
           </provider>
@@ -194,8 +190,8 @@
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/projects.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -559,7 +555,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="227" selection-end="227" vertical-scroll-proportion="0.13513513">
+        <state line="15" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="0.33783785">
           <folding />
         </state>
       </provider>
