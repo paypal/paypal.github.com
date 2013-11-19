@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/scr_content-bkgd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.js" afterPath="$PROJECT_DIR$/projects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +24,7 @@
     <file path="/.gitignore" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384557805179" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken-site/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384815485457" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken-site/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384813826030" ignored="false" />
-    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384821226287" ignored="false" />
+    <file path="/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384821475409" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/js/main.js" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/index.html" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384501430761" ignored="false" />
     <file path="$PROJECT_DIR$/../../kraken/kraken-js/css/main.css" changelist="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" time="1384798733767" ignored="false" />
@@ -116,19 +109,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="0.13513513">
+            <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="16" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
+            <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6956522">
               <folding />
             </state>
           </provider>
@@ -177,8 +170,8 @@
       <list>
         <option value="$PROJECT_DIR$/projects.js" />
         <option value="$PROJECT_DIR$/main.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -499,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="16" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="83" column="31" selection-start="2088" selection-end="2088" vertical-scroll-proportion="-24.411764">
@@ -522,7 +508,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="0.13513513">
+        <state line="6" column="52" selection-start="256" selection-end="256" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6956522">
           <folding />
         </state>
       </provider>

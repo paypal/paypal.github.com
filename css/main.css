@@ -30,8 +30,7 @@ header ul li {
     text-align: right;
     padding: .5em;
     color: #666;
-    border: solid 1px #CCC;
-    border-radius: 5px;
+
 
 }
 
@@ -44,7 +43,7 @@ header .icon{
 }
 header .mobile{
     background-image: url("https://www.paypalobjects.com/webstatic/developer/dev_icons_ribbon.png");
-    background-position: 0 -124px;
+    background-position: -90px -124px;
     background-repeat: no-repeat;
     height: 56px;
     width: 32px;
@@ -52,14 +51,14 @@ header .mobile{
 
 header .sdk{
     background-image: url("https://www.paypalobjects.com/webstatic/developer/dev_icons_ribbon.png");
-    background-position: 0 -344px;
+    background-position: -90px -344px;
     background-repeat: no-repeat;
     height: 56px;
     width: 40px;
 }
 header .api{
     background-image: url("https://www.paypalobjects.com/webstatic/developer/dev_icons_ribbon.png");
-    background-position: 0 -234px;
+    background-position: -90px -234px;
     background-repeat: no-repeat;
     height: 56px;
     width: 42px;
