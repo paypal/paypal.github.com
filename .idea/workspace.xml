@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdac2f21-a139-464a-b0dd-cd0bfaf6515e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.js" afterPath="$PROJECT_DIR$/projects.js" />
     </list>
     <ignored path="autoPopulate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,10 +109,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="0.33783785">
+            <state line="15" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
@@ -146,10 +146,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="projects.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="66" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.882353">
+            <state line="27" column="48" selection-start="781" selection-end="781" vertical-scroll-proportion="0.2112676">
               <folding />
             </state>
           </provider>
@@ -189,9 +189,9 @@
       <list>
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/projects.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/projects.js" />
       </list>
     </option>
   </component>
@@ -529,13 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="66" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.882353">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="18" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.0">
@@ -555,7 +548,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="0.33783785">
+        <state line="15" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="48" selection-start="781" selection-end="781" vertical-scroll-proportion="0.2112676">
           <folding />
         </state>
       </provider>
