@@ -56,31 +56,4 @@ PAYPAL.projects=[
         "repo": "https://github.com/paypal/kappa"
     },
 
-    {
-        "name": "Express-enrouten",
-        "language":"javascript",
-        "desc": "An express route initialization and configuration module.",
-        "repo": "https://github.com/paypal/express-enrouten"
-    },
-
-    {
-        "name": "FindATag",
-        "language":"javascript",
-        "desc": "A specialized tag parser for dust",
-        "repo": "https://github.com/paypal/findatag"
-    },
-
-    {
-        "name": "Spud",
-        "language":"javascript",
-        "desc": "A content bundle transcoder",
-        "repo": "https://github.com/paypal/spud"
-    },
-
-    {
-        "name": "Shortstop",
-        "language":"javascript",
-        "desc": "Enables use of protocols in configuration.",
-        "repo": "https://github.com/paypal/shortstop"
-    }
-]
+  
