@@ -11,7 +11,7 @@ var PAYPAL = PAYPAL || {};
 PAYPAL.projects=[
     {
         "name": "Aurora",
-        "language":"javascript",
+        "language":"java",
         "desc": "Project for PayPal Cloud Open Source Code",
         "repo": "https://github.com/paypal/aurora"
     },
