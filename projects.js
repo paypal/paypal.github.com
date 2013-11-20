@@ -29,20 +29,6 @@ PAYPAL.projects=[
     },
 
     {
-        "name": "Generator-kraken",
-        "language":"javascript",
-        "desc": "A Yeoman generator for Kraken",
-        "repo": "https://github.com/paypal/generator-webcore"
-    },
-
-    {
-        "name": "Kraken-devtools",
-        "language":"javascript",
-        "desc": "Supporting tools for Kraken",
-        "repo": "https://github.com/paypal/kraken-devtools"
-    },
-
-    {
         "name": "Lusca",
         "language":"javascript",
         "desc": "Application Security for Express",
