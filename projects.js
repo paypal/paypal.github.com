@@ -55,5 +55,5 @@ PAYPAL.projects=[
         "desc": "An NPM Proxy",
         "repo": "https://github.com/paypal/kappa"
     },
-
+    ]
   
