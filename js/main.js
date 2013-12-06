@@ -36,7 +36,7 @@ $(function(){
         var desc=$("<p></p>").html(repo.desc);
         var link=$("<a>&gt;</a>")
             .attr('href',repo.repo)
-            .attr('aria-label',"View "+repo.name+" on GitHub")
+            .attr('aria-label   ',"View "+repo.name+" on GitHub")
             .attr('target','_BLANK')
             .addClass(repo.language);;
         block
