@@ -7,8 +7,9 @@ body, html {
 }
 
 .wrapper {
-    width: 900px;
+    max-width: 900px;
     margin: 0 auto;
+    padding: 0 1em;
 }
 
 header {
@@ -26,6 +27,12 @@ header {
     text-align: right;
     padding: .5em;
     color: #666;
+}
+
+@media only screen and  (max-width: 600px) {
+    #apis{
+        position: static;
+    }
 }
 
 header ul li.separator:before {
