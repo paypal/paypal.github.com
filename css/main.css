@@ -29,12 +29,6 @@ header {
     color: #666;
 }
 
-@media only screen and  (max-width: 600px) {
-    #apis{
-        position: static;
-    }
-}
-
 header ul li.separator:before {
     content: "|";
 }
@@ -131,4 +125,18 @@ header .api{
 
 footer{
     padding: 2em;
+}
+
+@media only screen and  (max-width: 640px) {
+    #apis{
+        position: static;
+    }
+    
+    #repos div.project {
+    float: none;
+    width: auto;
+
+    }
+    
+    
 }
