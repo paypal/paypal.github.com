@@ -13,7 +13,7 @@ PAYPAL.projects=[
         "name": "KrakenJS",
         "language":"javascript",
         "desc": "An enterprise-grade NodeJS application framework.",
-        "project": "www.krakenjs.com"
+        "project": "www.krakenjs.com",
         "repo": "https://github.com/paypal/kraken-js"
     },
      {
