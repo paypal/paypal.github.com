@@ -56,5 +56,12 @@ PAYPAL.projects=[
         "desc": "An NPM Proxy",
         "repo": "https://github.com/paypal/kappa"
     },
+    {
+        "name": "SkipTo",
+        "language":"javascript",
+        "desc": "a replacement for your old classic SkipNav link",
+        "project": "http://paypal.github.io/SkipTo/",
+        "repo": "https://github.com/paypal/SkipTo"
+    },
     ]
   
