@@ -93,8 +93,16 @@ header .api{
 }
 
 /*Supporte Languages*/
+#repos div.javascript, #repos a {
+    color: #1089cc;
+}
+
 #repos div.javascript, #repos a.javascript {
     color: #1089cc;
+}
+
+#repos div.nodeJS, #repos a.nodeJS {
+    color: #3c940c;
 }
 
 #repos div.ruby, #repos a.ruby {
