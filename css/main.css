@@ -68,12 +68,12 @@ header .api{
 
 #repos div.project {
     float: left;
-    padding: .75em 1em;
+    padding: .75em 3em .75em 1em;
     margin: 1em;
     border-radius: 5px;
     background: #F4F4F4;
     font-weight: 200;
-    width: 230px;
+    width: 200px;
     min-height: 120px;
     position: relative;
 
@@ -108,15 +108,25 @@ header .api{
 #repos div.project p {
     font-size: 14px;
     margin: 0.2em 0;
-    width: 200px;
 }
 
-#repos div.project a {
+#repos div.project a.repoLink {
     position: absolute;
-    bottom: 10px;
-    right: 10px;
+    bottom: .25em;
+    right: .75em;
     text-decoration: none;
-    font-size: 30px;
+}
+#repos div.project a.repoLink img {
+    width: 32px;
+}
+
+
+#repos div.project a.projectLink {
+
+}
+
+#repos div.project a.projectLink:visited {
+    color: inherit;
 }
 
 #repos div:last-of-type{
@@ -124,7 +134,7 @@ header .api{
 }
 
 footer{
-    padding: 2em;
+    padding: 2em 0;
 }
 
 @media only screen and  (max-width: 640px) {
@@ -135,8 +145,6 @@ footer{
     #repos div.project {
     float: none;
     width: auto;
-
     }
-    
-    
+
 }

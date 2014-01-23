@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="en-US" >
+<html lang="en-US">
 <head>
     <title>PayPal Open Source</title>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0"/>
     <link href="css/main.css" rel="stylesheet">
     <!--->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -16,12 +17,10 @@
     <header>
         <h1><img src="img/ossLogo.png" alt="PayPal | Open Source"></h1>
         <span>PayPal is built with open source components.<br> We think you'll like these.</span>
+
         <div id="apis">
-                <div class="icon api"></div>
-                <div class="icon sdk"></div>
-                <div class="icon mobile"></div>
-                <br>Looking for APIs and SDKs?<br>
-                Visit <a href="http://paypal.github.com/sdk">Developer Central</a>
+            Looking for APIs and SDKs?<br>
+            Visit <a href="http://paypal.github.com/sdk">Developer Central</a>
         </div>
     </header>
     <div id="repos"></div>
@@ -33,13 +32,20 @@
     </footer>
 </div>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-47326793-1', 'paypal.github.io');
-  ga('send', 'pageview');
+    ga('create', 'UA-47326793-1', 'paypal.github.io');
+    ga('send', 'pageview');
 
 </script>
 </body>
