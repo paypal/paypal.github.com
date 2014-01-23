@@ -31,28 +31,28 @@ PAYPAL.projects=[
 
     {
         "name": "Lusca",
-        "language":"javascript",
+        "language":"nodeJS",
         "desc": "Application Security for Express",
         "repo": "https://github.com/paypal/lusca"
     },
 
     {
         "name": "Adaro",
-        "language":"javascript",
+        "language":"nodeJS",
         "desc": "DustJS support for express",
         "repo": "https://github.com/paypal/adaro"
     },
 
     {
         "name": "Makara",
-        "language":"javascript",
+        "language":"nodeJS",
         "desc": "i18n support",
         "repo": "https://github.com/paypal/makara"
     },
 
     {
         "name": "Kappa",
-        "language":"javascript",
+        "language":"nodeJS",
         "desc": "An NPM Proxy",
         "repo": "https://github.com/paypal/kappa"
     },
