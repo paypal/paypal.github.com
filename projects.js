@@ -10,7 +10,7 @@ var PAYPAL = PAYPAL || {};
 
 PAYPAL.projects=[
     {
-        "name": "KrakenJS",
+        "name": "kraken",
         "language":"node.js",
         "desc": "An enterprise-grade application framework",
         "project": "www.krakenjs.com",
