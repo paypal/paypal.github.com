@@ -46,7 +46,7 @@ PAYPAL.projects=[
     {
         "name": "Makara",
         "language":"javascript",
-        "desc": "i18n support",
+        "desc": "i18n support for express",
         "repo": "https://github.com/paypal/makara"
     },
 
