@@ -12,7 +12,7 @@ PAYPAL.projects=[
     {
         "name": "kraken",
         "language":"nodeJS",
-        "desc": "An enterprise-grade application framework",
+        "desc": "Enterprise-grade application framework",
         "project": "http://krakenjs.com",
         "repo": "https://github.com/paypal/kraken-js"
     },
@@ -25,14 +25,14 @@ PAYPAL.projects=[
     {
         "name": "Genio",
         "language":"ruby",
-        "desc": "Code generation tool to consume APIs in multiple programming languages.",
+        "desc": "Multi-language SDK generation",
         "repo": "https://github.com/paypal/genio"
     },
 
     {
         "name": "Lusca",
         "language":"nodeJS",
-        "desc": "Application Security for Express",
+        "desc": "Application security for express",
         "repo": "https://github.com/paypal/lusca"
     },
 
@@ -46,15 +46,22 @@ PAYPAL.projects=[
     {
         "name": "Makara",
         "language":"nodeJS",
-        "desc": "i18n support",
+        "desc": "i18n support for express",
         "repo": "https://github.com/paypal/makara"
     },
 
     {
         "name": "Kappa",
         "language":"nodeJS",
-        "desc": "An NPM Proxy",
+        "desc": "NPM Proxy",
         "repo": "https://github.com/paypal/kappa"
+    },
+    
+    {"name": "SkipTo",
+        "language":"javascript",
+        "desc": "replaces your classic SkipNav link",
+        "project": "http://paypal.github.io/SkipTo/",
+        "repo": "https://github.com/paypal/SkipTo"
     },
     ]
   
