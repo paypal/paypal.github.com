@@ -1,5 +1,5 @@
 /**
- * Created with IntelliJ IDEA.
+ * Created with IntelliJ IDEA
  * User: lmarkus
  * Date: 11/13/13
  * Time: 4:36 PM
