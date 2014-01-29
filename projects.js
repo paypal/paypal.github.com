@@ -22,6 +22,13 @@ PAYPAL.projects=[
         "desc": "Project for PayPal Cloud Open Source Code",
         "repo": "https://github.com/paypal/aurora"
     },
+     {
+        "name": "Bootstrap Accessibility",
+        "language":"java",
+        "desc": "Accessibility Plugin for Bootstrap 3",
+        "project": "http://paypal.github.io/bootstrap-accessibility-plugin/",
+        "repo": "https://github.com/paypal/bootstrap-accessibility-plugin"
+    },
     {
         "name": "Genio",
         "language":"ruby",
