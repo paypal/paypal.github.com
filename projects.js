@@ -24,7 +24,7 @@ PAYPAL.projects=[
     },
      {
         "name": "Bootstrap Accessibility",
-        "language":"java",
+        "language":"javascript",
         "desc": "Accessibility Plugin for Bootstrap 3",
         "project": "http://paypal.github.io/bootstrap-accessibility-plugin/",
         "repo": "https://github.com/paypal/bootstrap-accessibility-plugin"
