@@ -19,7 +19,7 @@ PAYPAL.projects=[
      {
         "name": "Aurora",
         "language":"java",
-        "desc": "Project for PayPal Cloud Open Source Code",
+        "desc": "OpenStack Cloud Management Framework & Portal",
         "repo": "https://github.com/paypal/aurora"
     },
      {
