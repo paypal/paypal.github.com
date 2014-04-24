@@ -16,5 +16,5 @@ The following is a list of known PayPal repos with `gh-pages` branches:
 - https://github.com/paypal/PayPal-Android-SDK
 - https://github.com/paypal/sdk
 - https://github.com/paypal/sdk-packages
-- https://github.com/paypal/SkipTo
+- https://github.com/paypal/skipto
 - https://github.com/paypal/Windows8SDK
