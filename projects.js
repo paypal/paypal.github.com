@@ -67,8 +67,8 @@ PAYPAL.projects=[
     {"name": "SkipTo",
         "language":"javascript",
         "desc": "replaces your classic SkipNav link",
-        "project": "http://paypal.github.io/SkipTo/",
-        "repo": "https://github.com/paypal/SkipTo"
+        "project": "http://paypal.github.io/skipto/",
+        "repo": "https://github.com/paypal/skipto"
     },
     ]
   
