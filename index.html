@@ -1,35 +1,106 @@
 <!DOCTYPE html>
 <html lang="en-US" >
+<!-- tap -->
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US"> <!--<![endif]-->
 <head>
     <title>PayPal Open Source</title>
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0"/>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Open Source at PayPal</title>
+    <meta name="description" content="Homepage for the %Project Name%">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/ico" href="favicon.ico">
+    <script src="js/vendor/google-code-prettify/prettify.js"></script>
+    <script src="js/vendor/google-code-prettify/lang-css.js"></script>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="js/vendor/google-code-prettify/sons-of-obsidian.css">
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <!-- old -->
+    <!-- meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0"/>
     <link href="css/main.css" rel="stylesheet">
     <!-- -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script -->
     <!-- --->
 
-    <script src="projects.js"></script>
-    <script src="js/main.js"></script>
+    <!-- script src="projects.js"></script -->
+    <!-- script src="js/main.js"></script -->
 
 </head>
-<body>
-<div class="wrapper">
-    <header>
-        <h1><img src="img/ossLogo.png" alt="PayPal | Open Source"></h1>
-        <span>Open Source projects built and nurtured at PayPal.<br></span>
-        <div id="apis">
-            Looking for PayPal SDKs?<br>
-            Visit <a href="http://paypal.github.com/sdk">Developer Central</a>
-        </div>
-    </header>
-    <div id="repos"></div>
 
-    <footer>
-        <span>
-            View all PayPal open source projects on <a href="http://github.com/paypal/">GitHub</a>
-        </span>
-    </footer>
-</div>
+
+
+<body data-spy="scroll" data-target="#staticMenuNav">
+
+<header role="banner" class='hd' >
+	<nav class="main-nav" role="navigation">
+	    <ul>
+	        <li><h1><img src="img/PayPalOpenSourcecolor.svg"  height="28" alt="PayPal Open Source"><h1></li>
+	        <li><p>Twitter: @paypalFlow | <a href="http://paypal.github.io/sdk/">Developer - SDKS</a></p></li>
+	         
+	        
+	    </ul>
+	</nav>
+</header>
+
+    <main role="main">
+<div id="MainBlock">
+  <div class="wrapper">
+   
+       
+          
+        
+       
+    
+ 
+    
+    <h2>Active projects </h2>
+       
+    <div id="modules">
+      <ul>
+                <li class="mod-kraken">
+                    <img src="img/KrakenLogo120x120.png" alt="">
+                    <p class="moduleTitle"><a href='http://krakenjs.com'>Kraken js</a>
+                An enterprise-grade application framework. <a href="https://github.com/krakenjs/kraken-js" title="view on GitHub"></a></p>
+                </li>
+                <li class="module2">
+                    <img src="img/NemoLogo_120x120px.png" height="120" width="109" alt="">
+                    <p class="moduleTitle"><a href='http://paypal.github.io/nemo/'>Nemo js</a> A selenium-webdriver automation for node.js. <a href="https://github.com/krakenjs/kraken-js" title="view on GitHub"> </a></p>
+                </li>
+                <li class="module2">
+                    <img src="img/bootstrapa11y120x120px.png" width="120" height="120" alt="">
+                    <p class="moduleTitle"><a href='#yourproject'>Bootstrap Accessibility Plugin</a> An accessibility plugin for Bootstrap 3. </p>
+</li>
+                <li class="module2">
+                
+                    <p class="moduleTitle">&nbsp;</p>
+                </li>
+      </ul></div>
+        <ul>
+        <li><p><a href="http://github.com/paypal/github/gatt">Gatt Go package</a> for building Bluetooth Low Energy Peripherals.</p></li>
+  <li>
+    <p><a href="http://github.com/paypal/genio" title="An extensible toolthat can generate code to consume APIs in multiple programming languages based on different API specification formats.">Genio</a> An extensible tool that can generate code to consume APIs in multiple programming languages based on different API specification formats.</p></li>
+  <li>
+    <p><a href="http://github.com/paypal/aurora" title=" OpenStack Cloud Management Framework & Portal">Aurora</a> OpenStack Cloud Management Framework & Portal.</p></li>
+  <li>
+    <p><a href="http://paypal.github.io/skipto/" title="SkipTo Menu">SkipTo Menu</a> Improves the navigation of webpages for keyboard and screen reader users. It’s a new take on the “Skipnav” link.</p></li>
+  <li>
+    <p><a href="http://paypal.github.io/amcharts-accessibility-plugin/" title="AMcharts accessibility plugin, accessibile charts">Amcharts Accessibility Plugin</a> Accessibility enhancements for the amCharts.com chart library. Enables navigation for keyboard users and provides support for screen reader users. </li>
+   
+</ul>
+
+  
+    <footer> <p><a href="https://github.com/paypal/">All our projects on GitHub</a> | Open Source projects built and nurtured at PayPal. </p></footer>
+ </div> </div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
