@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/autopopulate.iml" filepath="$PROJECT_DIR$/autopopulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paypal.github.com.iml" filepath="$PROJECT_DIR$/paypal.github.com.iml" />
     </modules>
   </component>
 </project>
