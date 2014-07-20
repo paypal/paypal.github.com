@@ -1,57 +1,137 @@
-/**
- * Created with IntelliJ IDEA.
- * User: lmarkus
- * Date: 11/13/13
- * Time: 3:58 PM
- * To change this template use File | Settings | File Templates.
- */
-
 $(function () {
-    var uri = 'https://api.github.com/orgs/paypal/repos?callback=?'
-        + '&per_page=100';
 
-    function createBlock(repo) {
-        var block = $('<div></div>').addClass('project');
+    //Format code blocks
+    prettyPrint();
 
-        var name = $('<h2></h2>');
-        if (repo.project) {
-            name.append($('<a>' + repo.name + '</a>')
-                .attr('href', repo.project)
-                .attr('aria-label', 'View project page')
-                .attr('target', '_BLANK')
-                .addClass('projectLink')
-            );
-        }
-        else {
-            name.html(repo.name);
-        }
+    //Keep the docs menu in place
+    var staticMenu = $(".staticMenu");
+    var initialMenuPadding = staticMenu.position().top;
+    var initialMenuPosition = staticMenu.offset().top - initialMenuPadding;
+    $(window).scroll(function(){
+        var diff =  $(window).scrollTop() - initialMenuPosition;
+        staticMenu.css("top",Math.max(initialMenuPadding,diff));
 
+    });
 
-        var lang = $('<div></div>').html(repo.language).addClass(repo.language + ' language');
-        var desc = $('<p></p>').html(repo.desc);
-        var projectLink = $('<span></span>');
+    //Build the index by parsing the H2's in the documentation
+    var index=$("<ul class='nav'></ul>");
+    $(".docsContent section").each(function(){
 
-
-        var repoLink = $('<a><img src="img/GitHub-Mark-64px.png"</a>')
-            .attr('href', repo.repo)
-            .attr('aria-label', 'View ' + repo.name + ' on GitHub')
-            .attr('target', '_BLANK')
-            .addClass(repo.language + ' repoLink');
+        var title = $($(this).find("h3")[0]);
+        var rand = title.html();//+Math.random();
+        rand = rand.split(" ")[0];
+        title.attr('id', rand);
+        var entry = $("<a data-target='#" + rand + "'></a>");
+        entry
+            .html(title.html())
+            .attr('href',"#"+rand);
 
 
-        block
-            .append(name)
-            .append(lang)
-            .append(desc)
-            .append(repoLink)
+        index.append($("<li data-offset='0'></li>").append(entry));
+    });
 
-        $('#repos').append(block);
+    staticMenu.append(index);
 
-    };
+    $('body').scrollspy({
+		target: '#staticMenuNav'
+    });
 
-//List Option
-    for (var i in PAYPAL.projects) {
-        createBlock(PAYPAL.projects[i]);
-    }
-    $('#repos').append($('<div>&nbsp</div>'));
-})
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
