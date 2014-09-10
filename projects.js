@@ -8,67 +8,70 @@
 
 var PAYPAL = PAYPAL || {};
 
-PAYPAL.projects=[
+PAYPAL.projects = [
     {
         "name": "kraken",
-        "language":"nodeJS",
+        "language": "nodeJS",
         "desc": "Enterprise-grade application framework",
         "project": "http://krakenjs.com",
         "repo": "https://github.com/paypal/kraken-js"
-    },
-     {
+      },
+    {
         "name": "Aurora",
-        "language":"java",
+        "language": "java",
         "desc": "OpenStack Cloud Management Framework & Portal",
         "repo": "https://github.com/paypal/aurora"
     },
-     {
+    {
         "name": "Bootstrap Accessibility",
-        "language":"javascript",
+        "language": "javascript",
         "desc": "Accessibility Plugin for Bootstrap 3",
         "project": "http://paypal.github.io/bootstrap-accessibility-plugin/",
         "repo": "https://github.com/paypal/bootstrap-accessibility-plugin"
     },
     {
         "name": "Genio",
-        "language":"ruby",
+        "language": "ruby",
         "desc": "Multi-language SDK generation",
         "repo": "https://github.com/paypal/genio"
     },
 
     {
         "name": "Lusca",
-        "language":"nodeJS",
+        "language": "nodeJS",
         "desc": "Application security for express",
         "repo": "https://github.com/paypal/lusca"
     },
-
     {
         "name": "Adaro",
-        "language":"nodeJS",
+        "language": "nodeJS",
         "desc": "DustJS support for express",
         "repo": "https://github.com/paypal/adaro"
     },
-
     {
         "name": "Makara",
-        "language":"nodeJS",
+        "language": "nodeJS",
         "desc": "i18n support for express",
         "repo": "https://github.com/paypal/makara"
     },
-
     {
         "name": "Kappa",
-        "language":"nodeJS",
+        "language": "nodeJS",
         "desc": "NPM Proxy",
         "repo": "https://github.com/paypal/kappa"
     },
-    
-    {"name": "SkipTo",
-        "language":"javascript",
+    {
+        "name": "SkipTo",
+        "language": "javascript",
         "desc": "replaces your classic SkipNav link",
         "project": "http://paypal.github.io/skipto/",
         "repo": "https://github.com/paypal/skipto"
     },
-    ]
-  
+    {
+      "name": "SeLion",
+      "language": "java",
+      "desc": "Enabling Test Automation in Java",
+      "project": "http://selion.io",
+      "repo": "https://github.com/paypal/SeLion"
+    }
+]
