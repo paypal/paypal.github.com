@@ -76,7 +76,7 @@ PAYPAL.projects = [
     }
     {
       "name": "card.io for iOS",
-      "language": "objective c",
+      "language": "objective c, c++",
       "desc": "Fast, easy credit card scanning in mobile apps",
       "project": "http://card.io",
       "repo": "https://github.com/card-io/card.io-iOS-source"
