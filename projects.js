@@ -73,5 +73,12 @@ PAYPAL.projects = [
       "desc": "Enabling Test Automation in Java",
       "project": "http://selion.io",
       "repo": "https://github.com/paypal/SeLion"
+    },
+    {
+      "name": "card.io for iOS",
+      "language": "objective c, c++",
+      "desc": "Fast, easy credit card scanning in mobile apps",
+      "project": "http://card.io",
+      "repo": "https://github.com/card-io/card.io-iOS-source"
     }
 ]
