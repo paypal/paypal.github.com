@@ -553,6 +553,10 @@ footer a, .docs a {
         padding: 0 .5em;
 
     }
+    
+    #social-links {
+        top:15px;
+    }
 
 }
 
