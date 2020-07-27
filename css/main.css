@@ -147,8 +147,8 @@ body {
 
 code {
     padding: .125em .25em;
-    border-radius: 5px;
-    border: solid 1px #666666;
+/*     border-radius: 5px; */
+    /* border: solid 1px #666666; */
     background-color: #f0f0f0;
     color: #333;
 }
@@ -173,7 +173,7 @@ header ul li {
 
 }
 
-#modules {
+.modules {
 	margin-top: 40px;
 }
 
@@ -305,18 +305,18 @@ pre.prettyprint {
     border-color: #808080;
 }
 
-#modules {
+.modules {
     text-align: center;
 }
 
-#modules ul {
+.modules ul {
     margin: 0;
     padding: 0;
     display: inline-block;
     width: 100%;
 }
 
-#modules  li {
+.modules  li {
     display: inline-block;
     list-style: none;
     min-width: 9em;
@@ -324,7 +324,7 @@ pre.prettyprint {
     text-align: center;
 }
 
-#modules  li div.moduleTitle {
+.modules  li div.moduleTitle {
     margin: 5px 0;
     
 }
@@ -343,6 +343,46 @@ li.adaro div.moduleTitle  {
 
 li.kappa div.moduleTitle  {
     color: #90BE6B;
+}
+
+.sdk-type > ul {
+    list-style: none;
+}
+.sdk-type li {
+    line-height: 1.25;
+    padding-bottom: 1rem;
+}
+h4.warning > span,
+li.warning > span {
+    color: #de0063;
+    font-style: italic;
+    font-size: 0.85em;
+}
+
+.sdk-type blockquote.warning {
+    border: 1px solid #de0063;
+    border-radius: 0.5em;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;    
+}
+
+li.warning:before,
+.sdk-type .warning:before {
+    color: #de0063;
+    content: '\26A0';
+    float: left;    
+}
+blockquote.warning:before {
+    font-size: 2em;
+}
+h4.warning:before,
+li.warning:before {
+    padding-right: 0.5rem;
+}
+.sdk-type .warning p {
+    padding-left: 0.5rem;
+
 }
 
 #cast {
@@ -527,7 +567,7 @@ footer a, .docs a {
         margin: 0;
     }
 
-    #modules  li {
+    .modules  li {
         display: inline-block;
         list-style: none;
         width: 45%;
