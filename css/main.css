@@ -348,41 +348,71 @@ li.kappa div.moduleTitle  {
 .sdk-type > ul {
     list-style: none;
 }
+
 .sdk-type li {
     line-height: 1.25;
     padding-bottom: 1rem;
 }
-h4.warning > span,
-li.warning > span {
-    color: #de0063;
+
+.sdk-type li p {
+    font-size: unset;
+    padding-left: 0.5rem;
+    margin: 0.35em;
+}
+
+:is(h4,li):is(.alert,.warning) > span{
+    color: rgb(222,0,99); 
     font-style: italic;
     font-size: 0.85em;
 }
 
-.sdk-type blockquote.warning {
-    border: 1px solid #de0063;
+.sdk-type blockquote:is(.alert,.warning){    
     border-radius: 0.5em;
     padding: 0.5rem;
     display: flex;
     align-items: center;    
 }
 
-li.warning:before,
+.sdk-type .alert:before {
+    color: rgb(222,0,99);
+}
+
 .sdk-type .warning:before {
-    color: #de0063;
+    color: rgb(255,205,0);
+}
+
+
+li:is(.alert,.warning):before,
+.sdk-type :is(.alert,.warning):before {
     content: '\26A0';
     float: left;    
 }
-blockquote.warning:before {
+
+blockquote:is(.alert,.warning):before {
     font-size: 2em;
 }
-h4.warning:before,
-li.warning:before {
+
+.sdk-type blockquote.alert {
+    border: 1px solid rgb(222,0,99);
+    background-color: rgba(222,0,99,0.15);
+}
+
+.sdk-type blockquote.warning {
+    border: 1px solid rgb(255,205,0);
+    background-color: rgba(255,205,0,0.15)
+
+}
+
+:is(h4,li):is(.alert,.warning):before{
     padding-right: 0.5rem;
 }
-.sdk-type .warning p {
-    padding-left: 0.5rem;
 
+.sdk-type :is(.alert,.warning) p {
+    padding-left: 0.5rem;
+}
+
+.sdk-type .repo-link {
+    font-weight: 700;
 }
 
 #cast {

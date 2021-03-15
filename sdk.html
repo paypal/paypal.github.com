@@ -23,7 +23,7 @@
     <nav class="main-nav" role="navigation">
         <ul>
             <li><h1><img src="img/PayPalOpenSourcecolor.svg" height="28" alt="PayPal Open Source"></h1></li>
-            <li id="social-links"><p><a href="http://twitter.com/PayPalDev" target="_blank">Twitter: @PayPalDev</a> | <a href="./">Open Source Projects</a></p></li>
+            <li id="social-links"><p><a href="http://twitter.com/PayPalDev" target="_blank" rel="noopener noreferrer">Twitter: @PayPalDev</a> | <a href="./">Open Source Projects</a></p></li>
     </nav>
 </header>
 
@@ -37,68 +37,97 @@
             <div class="sdk-type">
                 <h4>Client-Side Libraries</h4>
                 <ul>
-                    <li><a href="https://github.com/paypal/paypal-checkout-components">PayPal Checkout</a> - Javascript Integration for PayPal Button and PayPal Checkout | <a href="https://developer.paypal.com/docs/checkout/">Docs</a></li>
-                    <li><a href="https://github.com/paypal/paypal-messaging-components">PayPal Credit Messaging</a> | <a href="https://developer.paypal.com/docs/limited-release/sdk-credit-messaging">Docs</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/paypal-checkout-components" target="_blank" rel="noopener noreferrer">PayPal JavaScript SDK</a> - <a href="https://developer.paypal.com/docs/checkout/">Docs</a>
+                        <p> A set of components allowing easy integration of PayPal Buttons and PayPal Checkout into your site.</p>
+                    </li>
+
+                    <li><a class="repo-link" href="https://github.com/paypal/paypal-js" target="_blank" rel="noopener noreferrer">PayPal-JS</a>
+                        <p>An async, non-blocking, client-side loader for the PayPal JS SDK that offers additional benefits over the default JS SDK code snippet <a href="https://developer.paypal.com/docs/business/checkout/set-up-standard-payments/#sample-javascript-sdk-code">block</a>.</p>
+                    </li>
+
+                    <li><a class="repo-link" href="https://github.com/paypal/react-paypal-js" target="_blank" rel="noopener noreferrer">React-PayPal-JS</a> - 
+                            <a href="https://github.com/paypal/paypal-js#usage" target="_blank" rel="noopener noreferrer">Usage</a> | <a href="https://paypal.github.io/react-paypal-js/" target="_blank" rel="noopener noreferrer">Storybook</a>
+                        <p>Provides a solution to developers to abstract away complexities around loading the JS SDK when using React.</p>
+                    </li>
+
+                    <li><a class="repo-link" href="https://github.com/paypal/paypal-messaging-components" target="_blank" rel="noopener noreferrer">PayPal Credit Messaging</a> - <a href="https://developer.paypal.com/docs/business/pay-later/integrate/" target="_blank" rel="noopener noreferrer">Docs</a>
+                        <p>Messaging component allowing easy integration of PayPal Credit Messages onto your site. </p>
+                    </li>
+                    
                 </ul>
 <hr />                
                 <h4>Server-Side Checkout SDKs</h4>
                 <p>
-                    <a href="https://developer.paypal.com/docs/checkout/reference/server-integration/setup-sdk/">PayPal Checkout Server-Side SDK integration documentation</a>
+                    <a href="https://developer.paypal.com/docs/checkout/reference/server-integration/setup-sdk/" taget="_blank " rel="noopener noreferrer">PayPal Checkout Server-Side SDK integration documentation</a>
                 </p>
                 <ul>
-                    <li><a href="https://github.com/paypal/Checkout-PHP-SDK">Checkout-PHP-SDK</a> - REST API SDK for PHP V2</li>
-                    <li><a href="https://github.com/paypal/Checkout-NodeJS-SDK">Checkout-NodeJS-SDK</a> - PayPal Checkout API SDK for NodeJS</li>
-                    <li><a href="https://github.com/paypal/Checkout-NET-SDK">Checkout-NET-SDK</a> - REST API SDK for Dotnet V2</li>
-                    <li><a href="https://github.com/paypal/Checkout-Java-SDK">Checkout-Java-SDK</a> - PayPal Checkout Java SDK v2</li>
-                    <li><a href="https://github.com/paypal/Checkout-Python-SDK">Checkout-Python-SDK</a> - REST API SDK for Ruby V2</li>
-                    <li><a href="https://github.com/paypal/Checkout-Ruby-SDK">Checkout-Ruby-SDK</a> - REST API SDK for Ruby V2</li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Checkout-Java-SDK" target="_blank" rel="noopener noreferrer">Checkout-Java-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Checkout-NodeJS-SDK" target="_blank" rel="noopener noreferrer">Checkout-NodeJS-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Checkout-NET-SDK" target="_blank" rel="noopener noreferrer">Checkout-NET-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Checkout-PHP-SDK" target="_blank" rel="noopener noreferrer">Checkout-PHP-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Checkout-Python-SDK" target="_blank" rel="noopener noreferrer">Checkout-Python-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Checkout-Ruby-SDK" target="_blank" rel="noopener noreferrer">Checkout-Ruby-SDK</a></li>
                 </ul>
-
 <hr />
                 <h4>Native Checkout</h4>
                 <ul>
-                    <li><a href="https://github.com/paypal/paypalcheckout-ios">Native Checkout for iOS</a> | <a href="https://developer.paypal.com/docs/limited-release/native-checkout/ios/"> Docs</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/paypalcheckout-ios" target="_blank" rel="noopener noreferrer">Native Checkout for iOS</a> | <a href="https://developer.paypal.com/docs/limited-release/native-checkout/ios/" target="_blank" rel="noopener noreferrer"> Docs</a></li>
                 </ul>
 <hr />                
                 <h4>Legacy Merchant SDKs</h4>
                 <p><a href="https://www.paypal-support.com/" target="_blank" rel="noopener noreferrer">Merchant Technical Support</a></p>
                 <ul>
-                    <li><a href="https://github.com/paypal/merchant-sdk-php">PayPal PHP Merchant SDK</a></li>
-                    <li><a href="https://github.com/paypal/merchant-sdk-dotnet">merchant-sdk-dotnet</a> | <a href="https://github.com/paypal/merchant-sdk-dotnet/wiki/Upgrade-Process-from-Legacy-Merchant-SDK">Upgrade Process from Legacy Merchant SDK</a></li>
-                    <!-- <li class="warning"> <span>DEPRECATED</span> <a href="https://github.com/paypal/merchant-sdk-ruby">merchant-sdk-ruby</a></li> -->
-                    <li><a href="https://github.com/paypal/merchant-sdk-ruby">merchant-sdk-ruby</a></li>
-                    <li><a href="https://github.com/paypal/merchant-sdk-java">merchant-sdk-java</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/merchant-sdk-php" target="_blank" rel="noopener noreferrer">PayPal PHP Merchant SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/merchant-sdk-dotnet" target="_blank" rel="noopener noreferrer">merchant-sdk-dotnet</a> | <a href="https://github.com/paypal/merchant-sdk-dotnet/wiki/Upgrade-Process-from-Legacy-Merchant-SDK" target="_blank" rel="noopener noreferrer">Upgrade Process from Legacy Merchant SDK</a></li>
+                    <!-- <li class="warning" target="_blank" rel="noopener noreferrer"> <span>DEPRECATED</span> <a href="https://github.com/paypal/merchant-sdk-ruby" target="_blank" rel="noopener noreferrer">merchant-sdk-ruby</a></li> -->
+                    <li><a class="repo-link" href="https://github.com/paypal/merchant-sdk-ruby" target="_blank" rel="noopener noreferrer">merchant-sdk-ruby</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/merchant-sdk-java" target="_blank" rel="noopener noreferrer">merchant-sdk-java</a></li>
                 </ul>
 
 <hr />
-                <h4 class="caution">DEPRECATED - PayPal REST SDKs</h4>
-
+                <h4>Payouts SDKs</h4>
                 <blockquote class="warning">
-                    <p><strong>Important:</strong> These <code>/v1/payments</code> and general-purpose REST SDKs are deprecated. <a href="https://developer.paypal.com/docs/api/rest-sdks/">See our current SDK offerings</a>, which include the <code>/v2/checkout</code> and Payouts use cases. For other APIs, use <a href="https://developer.paypal.com/docs/api/overview/" pa-marked="1">direct integration</a>.</p>
+                    <p>
+                    It is not necessary to fork this repository for using the PayPal SDK. Please take a look at <a href="https://developer.paypal.com/docs/payouts/reference/setup-sdk/#install-the-sdk" target="_blank" rel="noopener noreferrer">PayPal Payouts Server SDK</a> for configuring and working with SDK without forking this code.
+                   </p>
                 </blockquote>
                 <ul>
-                    <li><a href="https://github.com/paypal/PayPal-Java-SDK" target="_blank" rel="noopener noreferrer">PayPal-Java-SDK</a></li>
-                    <li><a href="https://github.com/paypal/PayPal-NET-SDK" target="_blank" rel="noopener noreferrer">PayPal-NET-SDK</a></li>
-                    <li><a href="https://github.com/paypal/PayPal-Node-SDK" target="_blank" rel="noopener noreferrer">PayPal-Node-SDK</a></li>
-                    <li><a href="https://github.com/paypal/PayPal-PHP-SDK" target="_blank" rel="noopener noreferrer">PayPal-PHP-SDK</a></li>
-                    <li><a href="https://github.com/paypal/PayPal-Python-SDK" target="_blank" rel="noopener noreferrer">PayPal-Python-SDK</a></li>
-                    <li><a href="https://github.com/paypal/PayPal-Ruby-SDK" target="_blank" rel="noopener noreferrer">PayPal-Ruby-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Payouts-DotNet-SDK" target="_blank" rel="noopener noreferrer">Payouts-DotNet-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Payouts-Java-SDK" target="_blank" rel="noopener noreferrer">Payouts-Java-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Payouts-NodeJS-SDK" target="_blank" rel="noopener noreferrer">Payouts-NodeJS-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Payouts-Python-SDK" target="_blank" rel="noopener noreferrer">Payouts-Python-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Payouts-PHP-SDK" target="_blank" rel="noopener noreferrer">Payouts-PHP-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/Payouts-Ruby-SDK" target="_blank" rel="noopener noreferrer">Payouts-Ruby-SDK</a></li>                                    
                 </ul>
-                <blockquote class="warning">
+<hr />
+                <h4 class="caution">DEPRECATED - PayPal REST SDKs</h4>
+
+                <blockquote class="alert">
+                    <p><strong>Important:</strong> These <code>/v1/payments</code> and general-purpose REST SDKs are deprecated. <a href="https://developer.paypal.com/docs/api/rest-sdks/" target="_blank" rel="noopener noreferrer">See our current SDK offerings</a>, which include the <code>/v2/checkout</code> and Payouts use cases. For other APIs, use <a href="https://developer.paypal.com/docs/api/overview/" pa-marked="1" target="_blank" rel="noopener noreferrer">direct integration</a>.</p>
+                </blockquote>
+                <ul>
+                    <li><a class="repo-link" href="https://github.com/paypal/PayPal-Java-SDK" target="_blank" rel="noopener noreferrer">PayPal-Java-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/PayPal-NET-SDK" target="_blank" rel="noopener noreferrer">PayPal-NET-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/PayPal-Node-SDK" target="_blank" rel="noopener noreferrer">PayPal-Node-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/PayPal-PHP-SDK" target="_blank" rel="noopener noreferrer">PayPal-PHP-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/PayPal-Python-SDK" target="_blank" rel="noopener noreferrer">PayPal-Python-SDK</a></li>
+                    <li><a class="repo-link" href="https://github.com/paypal/PayPal-Ruby-SDK" target="_blank" rel="noopener noreferrer">PayPal-Ruby-SDK</a></li>
+                </ul>
+                <blockquote class="alert">
                     <p><strong>Important:</strong> The use of the PayPal REST <code>/payments</code> APIs to accept credit card payments is restricted. Instead, you can accept credit card payments with <a href="https://www.braintreepayments.com/products/braintree-direct" target="_blank" rel="noopener noreferrer">Braintree Direct</a>.</p>
                 </blockquote>
 <hr />
                 <h4 class="caution">DEPRECATED - Mobile App SDKs</h4>
                 <ul>
-                    <li class="warning"> <span>DEPRECATED</span> <a href="https://github.com/paypal/PayPal-Android-SDK">PayPal-Android-SDK</a></li>
-                    <li class="warning"> <span>DEPRECATED</span> <a href="https://github.com/paypal/PayPal-Cordova-Plugin">PayPal SDK Cordova/Phonegap Plugin</a></li>
+                    <li class="alert"> <span>DEPRECATED</span> <a href="https://github.com/paypal/PayPal-Android-SDK" target="_blank" rel="noopener noreferrer">PayPal-Android-SDK</a></li>
+                    <li class="alert"> <span>DEPRECATED</span> <a href="https://github.com/paypal/PayPal-Cordova-Plugin" target="_blank" rel="noopener noreferrer">PayPal SDK Cordova/Phonegap Plugin</a></li>
                 </ul>
 <hr />
                 
-                 <h4 class="warning"><span>DEPRECATED</span> <a href="https://github.com/paypal/sdk-packages">Obsolete SDK packages</a></h4>
+                 <h4 class="alert"><span>DEPRECATED</span> <a href="https://github.com/paypal/sdk-packages" target="_blank" rel="noopener noreferrer">Obsolete SDK packages</a></h4>
         
 
-            <footer><p><a href="https://github.com/paypal/">All our projects on GitHub</a> | Open Source projects built
+            <footer><p><a href="https://github.com/paypal/" target="_blank" rel="noopener noreferrer">All our projects on GitHub</a> | Open Source projects built
                 and nurtured
                 at PayPal. </p></footer>
         </div>
