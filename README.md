@@ -1,4 +1,4 @@
-[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)]
+![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)
 
 Welcome to the source of http://paypal.github.io
 
